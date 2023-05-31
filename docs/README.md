@@ -1,3 +1,4 @@
-**UMBC Summer 2023 DATA606 Proposal**
+**UMBC DATA606 Proposal**
 - Author: Edwin Brown
+- Term Summer 2023 
 
