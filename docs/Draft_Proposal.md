@@ -61,7 +61,8 @@ Figure 2. (Curls, Alexis, May 2023)
 - There are a few features that have the same sentiment as which Chronically Homeless  which indicates something is working
 <img src="pare_child.png"  width="300">
 
-
+## Count of features that describes events of homelessness
+<img src="newplot.png" width ='600'>
 					# References
 Bughin, Jacques, et al. “Notes from the AI Frontier: Modeling the Impact of AI on the World Economy.” McKinsey & Company, 4 Sept. 2018, www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-modeling-the-impact-of-ai-on-the-world-economy. 
 Curls, Alexis. “National Homeless Facts and Statistics 2023.” Today’s Homeowner, 8 May 2023, todayshomeowner.com/general/guides/national-homeless-facts-and-statistics/#:~:text=Key%20Homelessness%20Statistics%20and%20Facts%20for%202023&text=In%20America%2C%20582%2C462%20individuals%20are,complete%20census%20conducted%20in%202020. 
