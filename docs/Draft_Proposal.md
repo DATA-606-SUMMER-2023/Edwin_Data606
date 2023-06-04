@@ -16,16 +16,16 @@ Homeless in 2022
 10 States with Highest Estimated Number of Homeless, 2022
 
 Rank	State	Estimated Number of Homeless
-1	California	171.521
-2	New York	74.178
-3	Florida	25.959
-4	Washington	25.211
-5	Texas	24.432
-6	Oregon	17.959
-7	Massachusetts	15.507
-8	Arizona	13.553
-9	Pennsylvania	12.691
-10	Georgia	10.689
+- 1	California	171.521
+- 2	New York	74.178
+- 3	Florida	25.959
+- 4	Washington	25.211
+- 5	Texas	24.432
+- 6	Oregon	17.959
+- 7	Massachusetts	15.507
+- 8	Arizona	13.553
+- 9	Pennsylvania	12.691
+- 10	Georgia	10.689
 Figure 2. (Curls, Alexis, May 2023)
 
 
