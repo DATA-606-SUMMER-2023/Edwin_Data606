@@ -7,7 +7,7 @@
 
 
   
-  <img src="Edwin_Data606/docs/homelessness.png" width="300">
+  <img src="homelessness.png" width="300">
 
 Figure 1. (National Library of Medicine, June 2023
 
