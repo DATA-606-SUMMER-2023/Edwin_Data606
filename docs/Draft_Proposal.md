@@ -7,7 +7,7 @@
 
 
   
-  <img src="less_home_ness.jpeg" >
+  <img src="less_home_ness.jpeg" width ='600'>
 
 Figure 1. (National Library of Medicine, June 2023
 
