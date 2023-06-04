@@ -7,7 +7,7 @@
 
 
   
-  <img src="homelessness.png" width="300">
+  <img src="homelessness.png", width="300">
 
 Figure 1. (National Library of Medicine, June 2023
 
@@ -51,11 +51,11 @@ If the solutions work how does the solution contributes to the community and eco
 The data will have to be investigated to qualify as usefulness. However, to start the collection, the data to analyze will come from the US data census, Kaggle and another contributing site.
 
 
-	 <img src="child_homelessness.png" width="300">
+ <img src="child_homelessness.png" , width="300">
 	 
 	 
 	 
-	  <img src="pare_child.png" width="300">
+<img src="pare_child.png" , width="300">
 
 
 # References
