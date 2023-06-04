@@ -6,7 +6,7 @@
 .
 
 
-  <img src="homelessness.png" alt="homelessness">
+  <img src="docs/homelessness.png" alt="homelessness">
 
 Figure 1. (National Library of Medicine, June 2023
 
