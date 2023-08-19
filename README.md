@@ -1,5 +1,5 @@
  
-<p><strong>isalign="center">Edwin Brown 
+<p><strong><isalign="center">Edwin Brown 
 #Homelessness Population 
 #UMBC Data Science Capstone 606 
 #Summer 2023 </strong>bold</p>
