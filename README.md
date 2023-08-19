@@ -34,7 +34,8 @@ During the phase of EDA, the data that was acquired were continuous values which
 README.md 
  
 # PowerPoint slide link 
-EdwinBrown_Data_690_Capstone_presentation-4.pptx 
+Edwin Brown Power Point Slides 
+https://github.com/DATA-606-SUMMER-2023/Edwin_Data606/blob/main/EdwinBrown_Data_690_Capstone_presentation-2.pdf
  
  
  
