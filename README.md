@@ -1,8 +1,8 @@
  
-<p  isalign="center">  #Edwin Brown 
+<p><strong>isalign="center">Edwin Brown 
 #Homelessness Population 
 #UMBC Data Science Capstone 606 
-#Summer 2023 </p>
+#Summer 2023 </strong>bold</p>
  
 # Background 
 ****** Homelessness is a worldwide issue, and some commonalities can be found globally as an attribute to homelessness. According to the National Library of Medicine, homeless is defined as an individual who lacks a fixed, regular, and adequate nighttime primary residence, and lives in a publicly operated shelter to provide temporary living. (National Library of Medicine, June 2023).  At the beginning of this project, I wanted to understand how we could use machine learning to solve homelessness and what I have discovered is some foundational insight for some of the causes.   The data collected and aggregated is a collection for the year 2016 and not all the information has not been captured to   conclude the reason for homelessness but only has some insight that suggests a reasonable factor of influences.   
