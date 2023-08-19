@@ -30,8 +30,8 @@ During the phase of EDA, the data that was acquired were continuous values which
 # YouTube Link 
  [[https://studio.youtube.com/video/unrfTUUf4Nk/edit](https://www.youtube.com/watch?v=unrfTUUf4Nk)](https://www.youtube.com/watch?v=unrfTUUf4Nk) 
  
-# ReadmeLink 
-README.md 
+# Readme Link Files
+[README.md ](https://github.com/DATA-606-SUMMER-2023/Edwin_Data606/blob/main/README.md)
  
 # PowerPoint slide link 
 Edwin Brown Power Point Slides 
